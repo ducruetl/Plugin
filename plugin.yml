@@ -1,0 +1,4 @@
+name: Plugin
+version: 1.0
+author: Leo Ducruet
+main: com.application.Main
